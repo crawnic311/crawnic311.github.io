@@ -1,0 +1,22 @@
+.titleText{
+    color: #fff;
+    padding: 10px 15px;
+}
+
+h2{
+    margin-bottom: 0;
+}
+
+.banner{
+    color: white;
+    text-align: center;
+    padding-left: 425px;
+    padding-top: 100px;
+    background-image: url(../Media/pexels-ian-beckley-2440024.jpg);
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+}
+
+
